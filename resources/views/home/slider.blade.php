@@ -1,6 +1,6 @@
 <section class="slider_section ">
             <div class="slider_bg_box">
-               <img src="images/slider-bg.jpg" alt="">
+               <img src="images/slider.webp" alt="">
             </div>
             <div id="customCarousel1" class="carousel slide" data-ride="carousel">
                <div class="carousel-inner">
@@ -11,17 +11,16 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Get Glam! 20% Off
                                     </span>
                                     <br>
-                                    On Everything
+                                    Book Now!
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
-                                 </p>
+                                 Step into Beux Salon for a transformative experience tailored to your style. Our expert team ensures every visit leaves you feeling rejuvenated and beautiful. Book now to discover your perfect look with Beux.
                                  <div class="btn-box">
                                     <a href="" class="btn1">
-                                    Shop Now
+                                    Book now
                                     </a>
                                  </div>
                               </div>
@@ -36,13 +35,13 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Don't miss out 
                                     </span>
                                     <br>
-                                    On Everything
+                                    Unleash Your Beauty
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                 Elevate your beauty at Beux Salon, where style meets sophistication. With personalized services and top-tier professionals, indulge in luxury treatments that redefine pampering. Book today and unlock your true radiance with Beux.
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">
@@ -61,13 +60,14 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Secure Your Appointment
                                     </span>
                                     <br>
-                                    On Everything
+                                    reserve your spot today!
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                    
+Discover the art of beauty at Beux Salon. From chic cuts to lavish treatments, our skilled team crafts a look as unique as you are. Book now and experience the epitome of style with Beux.
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">

@@ -11,7 +11,7 @@
       <meta name="description" content="" />
       <meta name="author" content="" />
       <link rel="shortcut icon" href="home/images/favicon.png" type="">
-      <title>ecommerce website</title>
+      <title>Beux Salon</title>
       <!-- bootstrap core css -->
       <link rel="stylesheet" type="text/css" href="{{asset('home/css/bootstrap.css')}}" />
       <!-- font awesome style -->
@@ -101,14 +101,6 @@
         @include('home.slider')
          <!-- end slider section -->
       </div>
-      <!-- why section -->
-        @include('home.why')
-      <!-- end why section -->
-      
-      <!-- arrival section -->
-        @include('home.new_arrival')
-      <!-- end arrival section -->
-      
       <!-- product section -->
         @include('home.product')
       <!-- end product section -->
